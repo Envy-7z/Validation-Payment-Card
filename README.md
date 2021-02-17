@@ -1,7 +1,8 @@
 # Valadation Card
 
 A new Flutter application how to validate payment card number, cvv and date.
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-02-18 at 01 03 21](https://user-images.githubusercontent.com/49360795/108248024-f6cab180-7185-11eb-96fc-7d3598f0f863.png)
+![Untitled collage](https://user-images.githubusercontent.com/49360795/108248922-026aa800-7187-11eb-8828-31c0d8b9a8f4.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
