@@ -1,6 +1,6 @@
-# validasi_card
+# Valadation Card
 
-A new Flutter application.
+A new Flutter application how to validate payment card number, cvv and date.
 
 ## Getting Started
 
